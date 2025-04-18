@@ -27,4 +27,4 @@ The goal of this project is to demonstrate how a basic blockchain works and how 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/apurwaanandd/simple-python-blockchain.git
+git clone https://github.com/apurwaanandd/blockchain-implementation-python.git
